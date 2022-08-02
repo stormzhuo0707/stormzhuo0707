@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=dark)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stormzhuo0707&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
