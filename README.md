@@ -29,8 +29,8 @@ Wish you a good-looking profile README!
 
 ## Hey, stormzhuo here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&theme=dark&show_icons=true">](https://metrics.lecoq.io/stormzhuo0707#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&show_icons=true">](https://metrics.lecoq.io/stormzhuo0707#gh-light-mode-only)
 
 I'm S**torm** z**h**u**o**, an undergraduate student at WYU.
 
