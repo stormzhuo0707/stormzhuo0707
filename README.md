@@ -27,19 +27,18 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, ouuan here! :wave:
+## Hey, stormzhuo here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=stormzhuo0707&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
-I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
+I'm S**torm** z**h**u**o**, an undergraduate student at WYU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Taking courses & doing assignments at THU
+-   :seedling: Taking courses & doing assignments at WYU
 -   :man: Pronouns: he/him
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/stormzhuo0707/stormzhuo0707/discussions/new)!
 
 ---
 
