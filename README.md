@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 
 I'm S**torm** z**h**u**o**, an undergraduate student at WYU.
 
--   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
+-   :hammer_and_pick: Java / SpringBoot / springcloud alibaba / Nacos / Redis / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at WYU
 -   :man: Pronouns: he/him
